@@ -1,0 +1,11 @@
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\obj\Debug\netcoreapp3.1\1.1 thread safe variables.csprojAssemblyReference.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\obj\Debug\netcoreapp3.1\1.1 thread safe variables.AssemblyInfoInputs.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\obj\Debug\netcoreapp3.1\1.1 thread safe variables.AssemblyInfo.cs
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.exe
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.deps.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.runtimeconfig.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.runtimeconfig.dev.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\bin\Debug\netcoreapp3.1\1.1 thread safe variables.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\obj\Debug\netcoreapp3.1\1.1 thread safe variables.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.1 thread safe variables\obj\Debug\netcoreapp3.1\1.1 thread safe variables.pdb

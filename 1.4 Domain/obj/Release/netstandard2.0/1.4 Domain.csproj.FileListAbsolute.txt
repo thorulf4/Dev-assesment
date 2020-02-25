@@ -1,0 +1,8 @@
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\obj\Release\netstandard2.0\1.4 Domain.csprojAssemblyReference.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\obj\Release\netstandard2.0\1.4 Domain.AssemblyInfoInputs.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\obj\Release\netstandard2.0\1.4 Domain.AssemblyInfo.cs
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\bin\Release\netstandard2.0\Domain.deps.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\bin\Release\netstandard2.0\Domain.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\bin\Release\netstandard2.0\Domain.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\obj\Release\netstandard2.0\Domain.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Domain\obj\Release\netstandard2.0\Domain.pdb

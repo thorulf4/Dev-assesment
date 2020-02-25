@@ -1,0 +1,11 @@
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.exe
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.deps.json
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\bin\Release\netcoreapp3.1\Client.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\obj\Release\netcoreapp3.1\Client.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\obj\Release\netcoreapp3.1\Client.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\Client\obj\Release\netcoreapp3.1\Client.csprojAssemblyReference.cache

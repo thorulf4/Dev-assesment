@@ -1,0 +1,60 @@
+﻿@page
+@model WebUi.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Books</h1>
+
+<p>
+    <a asp-page="Books/Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].LentTo)
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Books) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LentTo.Name)
+            </td>
+            <td>
+                @if(item.LentTo?.Id == null){
+                <form method="post">
+                    <button class="btn btn-primary" type="submit" asp-page-handler="borrow" asp-route-id="@item.ISBN">
+                        Borrow
+                    </button>
+                </form>
+                } else if(item.LentTo.Id == Model.UserId) {
+                <form method="post">
+                    <button class="btn btn-primary" type="submit" asp-page-handler="handin" asp-route-id="@item.ISBN">
+                        Hand In
+                    </button>
+                 </form>
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

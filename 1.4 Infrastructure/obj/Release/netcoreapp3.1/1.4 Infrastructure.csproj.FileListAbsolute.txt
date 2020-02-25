@@ -1,0 +1,15 @@
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\1.4 Infrastructure.csprojAssemblyReference.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\1.4 Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\1.4 Infrastructure.AssemblyInfo.cs
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\1.4 Infrastructure.csproj.CopyComplete
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Application.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Application.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.4 Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json

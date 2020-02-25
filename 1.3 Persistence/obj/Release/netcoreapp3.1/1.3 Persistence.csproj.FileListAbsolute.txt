@@ -1,0 +1,11 @@
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.exe
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\obj\Release\netcoreapp3.1\1.3 Persistence.csprojAssemblyReference.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\obj\Release\netcoreapp3.1\1.3 Persistence.AssemblyInfoInputs.cache
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\obj\Release\netcoreapp3.1\1.3 Persistence.AssemblyInfo.cs
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.deps.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.runtimeconfig.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.runtimeconfig.dev.json
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\bin\Release\netcoreapp3.1\1.3 Persistence.pdb
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\obj\Release\netcoreapp3.1\1.3 Persistence.dll
+C:\Users\Thorulf\source\repos\IS developer assesment\1.3 Persistence\obj\Release\netcoreapp3.1\1.3 Persistence.pdb
